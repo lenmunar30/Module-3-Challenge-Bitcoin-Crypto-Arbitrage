@@ -9,7 +9,7 @@ WELCOME to my Module 3 Challenge.
 
 This challenge is will enhance data cleaning skillsets and financial analysis through assessment of arbitrage opportunities in Bitcoin and cryptocurrencies.
 
-===========================================================================================
+==================================================================================
 
 ### Technologies
  
@@ -17,7 +17,7 @@ A. Jupyter notebook / lab
  
 B. Pandas
    
-===========================================================================================
+==================================================================================
 
 
 ### Writing codes
