@@ -9,7 +9,7 @@ WELCOME to my Module 3 Challenge.
 
 This challenge is will enhance data cleaning skillsets and financial analysis through assessment of arbitrage opportunities in Bitcoin and cryptocurrencies.
 
-=============================================================================================
+===========================================================================================
 
 ### Technologies
  
@@ -17,7 +17,9 @@ A. Jupyter notebook / lab
  
 B. Pandas
    
-=============================================================================================
+===========================================================================================
 
 
 ### Writing codes
+
+See the codes I have written in file named "crypto_arbitrage.ipynb" attached in Repo "Module-3-Challenge-Bitcoin-Crypto-Arbitrage".
