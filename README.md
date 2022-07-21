@@ -22,11 +22,4 @@ B. Pandas
 
 ### Writing codes
 
-See the codes I have written in file named "[crypto_arbitrage.ipynb]" attached in Repo "Module-3-Challenge-Bitcoin-Crypto-Arbitrage".
-
-
-	[crypto_arbitrage.ipynb][1]
-.
-.
-.
-[1]: https://github.com/lenmunar30/Module-3-Challenge-Bitcoin-Crypto-Arbitrage/blob/main/crypto_arbitrage.ipynb)
+See the codes I have written in file named "[crypto_arbitrage.ipynb](https://github.com/lenmunar30/Module-3-Challenge-Bitcoin-Crypto-Arbitrage/blob/main/crypto_arbitrage.ipynb)" attached in Repo "Module-3-Challenge-Bitcoin-Crypto-Arbitrage".
