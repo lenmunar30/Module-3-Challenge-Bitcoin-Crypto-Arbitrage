@@ -2,6 +2,8 @@
 
 WELCOME to my Module 3 Challenge.
 
+https://user-images.githubusercontent.com/108433370/180120811-29065d85-f69a-4318-af26-418a17d2e6bf.jpg
+
 ### Challenge Goal 
 This challenge is will enhance data cleaning skillsets and financial analysis through assessment of arbitrage opportunities in Bitcoin and cryptocurrencies.
 
